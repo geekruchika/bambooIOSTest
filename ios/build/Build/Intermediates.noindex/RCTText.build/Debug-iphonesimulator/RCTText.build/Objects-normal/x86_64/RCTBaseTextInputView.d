@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/ruchika/Sites/projects/bambooIOS/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
